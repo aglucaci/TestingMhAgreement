@@ -1,0 +1,655 @@
+{
+ "Evidence Ratios":{
+   "Three-hit":    [
+[0.9999761630792264, 1.002092648896279, 0.9966473175094585, 0.9999761630792264, 1.000282932682407, 1.000448487375082, 1.000282081507955, 1.000587562751566, 1.00099382471793, 1.001427933035328, 0.9983169885080774, 1.000717569021566, 1.001318544740134, 1.000167562399672, 1.000561744398677, 0.9976031125884661, 1.000561744398677, 1.000332874459587, 1.000574749089961, 0.9984237214296797, 1.000571069310199, 0.9995654459016649, 0.9988478274855296, 1.000163323841398, 1.000833790109965, 1.000180668240303, 0.9999934986019854, 0.998208474886741, 0.9987947988902539, 1.000724112831276, 1.00055501759182, 1.000289172530529, 0.9999848773276103, 1.000229761872902, 1.00028700749764, 1.001526876471114, 0.9992030544371571, 1.001504918966801, 0.9999369270726181, 1.000567801741019, 1.000332874459587, 1.000282081507955, 0.9999199368835076, 0.9986473634627603, 1.000284747641602, 0.9989333180450962, 0.9989524935836824, 1.000060660307072, 1.000282081507955, 0.9988119717747401, 1.000024247152272, 1.000287095118, 1.002038042560972, 1.000036600455969, 1.000271270743518, 1.001162518063003, 0.9999297244678271, 0.9997029629744871, 1.000587562751566, 0.9999356486555935, 1.001517906939841, 1.000833790109965, 1.000798589263972, 0.9989519412700031, 0.9993784467251073, 1.000402984621132, 0.9995067957283916, 1.001452030396688, 1.001402647701461, 0.9977917428973351, 0.9990277065694654, 1.000187390832562, 1.000645965769124, 0.9993994958631844, 0.9999297244678271, 1.000571069310199, 1.000445441507057, 1.000180040756866, 0.9999830203147406, 0.9998051243336238, 0.9996338337202693, 0.9994671214599546, 1.000148202540298, 0.9984172617129039, 0.9987724189790615, 0.9975714240141843, 0.9999088247560153, 1.000195044020104] 
+    ],
+   "Three-hit islands vs 2-hit":    [
+[1.000013752912661, 1.002353485164084, 0.9979579199395594, 1.000013752912661, 1.000240169403285, 1.000113219855482, 1.000231057059065, 1.000750793648317, 0.9993052817860162, 0.9990477850304358, 0.9974040036231395, 1.000788290885566, 1.001165943263941, 1.00226298516587, 1.000735887924548, 0.9979564176282497, 1.000735887924548, 1.000265295696357, 1.000755906374347, 1.000073337933331, 1.000730122702429, 1.000238776797142, 0.9991770301196452, 0.9990711445153008, 1.000774839182101, 1.000257718917613, 0.999309275223595, 0.9987314441481797, 0.9998899427587621, 0.9992856318501988, 1.000711845001006, 1.000254052397208, 1.000038184922759, 0.9999863439545572, 1.000257232719097, 1.000915784379272, 1.000738965241894, 0.9997747290937136, 0.999704913450758, 1.000728492018512, 1.000265295696357, 1.000231057059065, 1.000520955648545, 1.001249136485128, 1.000807599895145, 0.9986123880001796, 1.000042390460003, 0.9999061454260499, 1.000231057059065, 0.9981927297826038, 0.9994176099884261, 0.9978288355497205, 1.001560689118022, 0.9991579746166854, 0.9991902157867056, 1.000671684660432, 0.9996864719152363, 1.000392714076311, 1.000750793648317, 0.9994220554141819, 1.001368847940149, 1.000774839182101, 1.000889246265317, 1.000140198527204, 0.999361096039886, 1.001599448277245, 1.000712573744485, 1.001019563910152, 0.9994156194759515, 1.000843352447683, 0.9983529769111545, 1.000281750914871, 1.000376357717566, 1.00049132969997, 0.9996864719152363, 1.000730122702429, 1.000230879114284, 1.000224576811638, 1.000010169353479, 1.001038111727335, 0.9972186224510652, 0.9971715896384635, 1.00119337417942, 1.000469207232674, 0.9971018876715747, 0.998985187905993, 0.9993403715524649, 1.000188097258021] 
+    ],
+   "Three-hit vs three-hit islands":    [
+[0.9999624106835275, 0.9997397761651301, 0.9986867157382946, 0.9999624106835275, 1.000042753011157, 1.000335229564957, 1.000051012662055, 0.9998368915640263, 1.001689716808958, 1.002382416577621, 1.000915361159191, 0.9999293338414885, 1.000152423758739, 0.9979093084377935, 0.9998259845300121, 0.9996459714737611, 0.9998259845300121, 1.000067560839629, 0.9998189795501254, 0.998350504466942, 0.9998410626515366, 0.9993268298419371, 0.9996705262188862, 1.001093194746033, 1.00005890528574, 0.9999229691749913, 1.000684696315099, 0.9994763664801954, 0.9989047355897124, 1.001439509320688, 0.999843284148209, 1.000035111213233, 0.9999466944403202, 1.000243421242516, 1.000029767121465, 1.00061053297528, 0.9984652233418675, 1.00173057972235, 1.000232082106168, 0.9998394266988756, 1.000067560839629, 1.000051012662055, 0.9993992941760544, 0.9974014728926494, 0.9994775696611442, 1.000321375990097, 0.9989101493229513, 1.000154529384311, 1.000051012662055, 1.000620363155992, 1.000606990669149, 1.002463608467403, 1.000476609603528, 1.000879366288019, 1.001081931087526, 1.0004905039386, 1.000243328843017, 0.9993105196668082, 0.9998368915640263, 1.000513890241494, 1.000148855239504, 1.00005890528574, 0.9999094235434307, 0.9988119093113641, 1.00001736177773, 0.9988054469696738, 0.9987950805778513, 1.000432026008409, 1.001988190085073, 0.9969509618634276, 1.000675842786986, 0.999905666496242, 1.000269506620662, 0.9989087023501616, 1.000243328843017, 0.9998410626515366, 1.000214512866232, 0.999955473944747, 0.9999728512373467, 0.9987682912575785, 1.002421947619939, 1.002302042943606, 0.9989560741550264, 0.997949016816374, 1.00167538676653, 0.9985847999460611, 1.000568828418957, 1.000006945455661] 
+    ],
+   "Two-hit":    [
+[1.000008299069769, 0.999495744144393, 1.002632418248924, 1.000008299069769, 1.000110674193644, 0.9989976100802566, 1.000111698915967, 0.9999265291207803, 1.000595400295899, 1.000855038008138, 1.002125333312997, 0.9993939845540072, 0.9997080717722298, 0.9988222314653494, 0.999933706453021, 1.002013253819252, 0.999933706453021, 1.000086648812669, 0.9999231261406827, 0.9995781083987937, 0.9999377853943227, 0.9992204627182122, 1.002257163830587, 1.000136248826453, 1.000206283378819, 1.000025261907492, 1.001500117950314, 1.002743557524079, 1.000136682584198, 0.9990599905301714, 0.9999411789532525, 1.000093193014317, 0.9999787887034493, 1.000854399347595, 1.000099370886238, 0.9993995166892961, 1.000830006871966, 0.9983453766151124, 1.000404240410135, 0.9999311378643909, 1.000086648812669, 1.000111698915967, 1.000117955189118, 1.000175922362101, 0.9991550946516097, 0.9987633472885812, 1.000073968474526, 0.9999429135510581, 1.000111698915967, 1.000048774333196, 1.000094772298116, 1.001190110167201, 1.000640674973747, 0.9988812132887711, 0.9995764002463564, 0.9978294933024904, 1.000417484099078, 0.9994967487613019, 0.9999265291207803, 0.9992218898889943, 0.9985487930175716, 1.000206283378819, 0.9985329420798225, 1.000056113255243, 0.9991763104826656, 0.9990213841692498, 1.000013938746784, 0.9991501208385811, 1.00130912658081, 1.00081697974515, 1.000065758389946, 1.000017782072551, 0.9990639385456641, 0.9972692341343619, 1.000417484099078, 0.9999377853943227, 0.9997477309292759, 0.9986895310595423, 1.000017543935281, 0.9987720255951429, 1.000882644728206, 1.000515460899724, 0.9982500869690493, 0.9999814642504686, 1.002999555561328, 1.001096814241908, 0.9993938940572568, 1.00084462021507] 
+    ]
+  },
+ "Site Log Likelihood":{
+   "MG94 with double and triple instantaneous substitutions":    [
+[-3.455447880435993, -13.59374970925229, -20.35861152091501, -3.455447880435993, -4.121073515667584, -8.832068016107117, -4.621584072820315, -5.472000136052117, -19.82815051029515, -21.02067514326683, -25.0182019648099, -8.300529441996087, -10.39100892074783, -23.36186696845661, -4.591682768140148, -23.06889444319321, -4.591682768140148, -4.353414816431823, -5.078562834620482, -15.55743871559349, -4.988365346439604, -15.19752945856281, -31.08738997222561, -11.65456377397836, -7.028621726898195, -5.392316984052107, -7.735142914411709, -14.19503034445064, -7.489240117250343, -15.77760256101758, -5.011258948755031, -5.250791099715951, -4.476220093680397, -8.793630081453964, -5.025491511603478, -10.72544965592156, -13.80702851574113, -17.31278182572025, -4.76783413172871, -5.496389139377214, -4.353414816431823, -4.621584072820315, -9.895595444841215, -22.66055733629749, -12.17879384590464, -21.28462847894323, -7.277401664194524, -7.844634239200525, -4.621584072820315, -14.14309074641094, -12.5649764807816, -21.49807867531479, -9.913716294954538, -22.90212296165932, -20.74764108549894, -12.55099657024926, -4.558955971289549, -8.487195455262787, -5.472000136052117, -10.83511370770782, -12.36004527479807, -7.028621726898195, -7.720588817470921, -8.155840589173593, -16.40678711551555, -24.44172920543679, -18.9854539280703, -18.95027874678474, -13.47655306019079, -23.50091170569969, -16.29550072051816, -4.972747673841009, -7.103983149987426, -22.68225952751995, -4.558955971289549, -4.988365346439604, -7.83064769691247, -9.127246205071762, -3.409097739788857, -12.29041604050357, -22.61233833840947, -37.85253043922825, -13.99893719540859, -26.09962655072285, -11.56047515232655, -15.54598658542381, -13.83314492188612, -11.60979852663479] 
+    ],
+   "MG94 with double and triple instantaneous substitutions [only synonymous islands]":    [
+[-3.455410290413025, -13.59348945155332, -20.35729737353977, -3.455410290413025, -4.121116267764857, -8.832403189495198, -4.621635084181269, -5.471837014312515, -19.82983880113875, -21.0230547263895, -25.01911690728155, -8.300458773340605, -10.39116133289125, -23.35977408834788, -4.591508737527712, -23.06854035198408, -4.591508737527712, -4.353482374989322, -5.078381797784428, -15.55578785814482, -4.988206396459262, -15.19685606172398, -31.08706044415608, -11.65565637162214, -7.028680630449087, -5.392239950260072, -7.735827376429229, -14.19450657378693, -7.48814425259967, -15.77904103523797, -5.011102220622027, -5.250826210312799, -4.476166786699926, -8.793873473074337, -5.025521278281911, -10.72606000259741, -13.80549256010684, -17.31451090971491, -4.768066186907992, -5.496228553182817, -4.353482374989322, -4.621635084181269, -9.894994558521239, -22.65795542715844, -12.1782712790515, -21.28494980330312, -7.276311219198374, -7.844788756646401, -4.621635084181269, -14.14371091722126, -12.56558328730643, -21.50053925407385, -9.914192791015784, -22.90300194153132, -20.74872243172085, -12.55148695393013, -4.559199270532905, -8.486505737128718, -5.471837014312515, -10.83562746595294, -12.36019411895974, -7.028680630449087, -7.720498236912057, -8.154651792145696, -16.40680447714256, -24.44053393835929, -18.9842482821491, -18.95071067949678, -13.47853927644176, -23.49785800977608, -16.29617633502625, -4.972653335887566, -7.104252620297702, -22.68116763397126, -4.559199270532905, -4.988206396459262, -7.830862186774107, -9.127201678025195, -3.40907059065767, -12.28918357258449, -22.61475735784127, -37.85482983653048, -13.99789272429351, -26.09757346139294, -11.56214913719826, -15.54457038302849, -13.83371358858352, -11.60980547206633] 
+    ],
+   "MG94 with double instantaneous substitutions":    [
+[-3.455424043231116, -13.59584017160878, -20.35525320559093, -3.455424043231116, -4.121356408332088, -8.832516402941796, -4.621866114550762, -5.472587526256274, -19.82914384149625, -21.02210205777526, -25.01651753546307, -8.301246753688096, -10.39232659697122, -23.36203451681927, -4.592244354819504, -23.06649467864868, -4.592244354819504, -4.353747635500999, -5.079137418605444, -15.55586119338906, -4.988936252751778, -15.19709481001848, -31.08623713545011, -11.65472708448387, -7.029455169598284, -5.392497635973869, -7.73513641299256, -14.19323721263702, -7.48803418930169, -15.77832641180566, -5.011813812381553, -5.251080230444162, -4.476204970893659, -8.793859816935649, -5.025778477922344, -10.726975367902, -13.80623125244836, -17.31428561343132, -4.767771056812148, -5.496956779979818, -4.353747635500999, -4.621866114550762, -9.8955153785195, -22.65920378412167, -12.17907855301332, -21.28356122767824, -7.276353608759926, -7.844694897667835, -4.621866114550762, -14.14190201192072, -12.56500072763992, -21.49836572922888, -9.915752263524213, -22.9021595614455, -20.7479123194552, -12.55215841311138, -4.558885693287936, -8.486898374113039, -5.472587526256274, -10.83504935429277, -12.36156203088162, -7.029455169598284, -7.721387088032151, -8.154791980846005, -16.40616536899634, -24.44213210888143, -18.98496060213346, -18.95172972400466, -13.47795472510086, -23.49870100680191, -16.29452795410375, -4.972935047118102, -7.104628907210467, -22.68165884300831, -4.558885693287936, -4.988936252751778, -7.83109303923991, -9.127426229623236, -3.409080759959441, -12.29022114584647, -22.6119721050745, -37.85199741865798, -13.99908538696797, -26.09804255858232, -11.55924681721083, -15.54355505566406, -13.83305374248542, -11.60999355163628] 
+    ],
+   "Standard MG94":    [
+[-3.455432342266448, -13.59533578857343, -20.35788216509552, -3.455432342266448, -4.121467076401795, -8.831513510293295, -4.62197780722887, -5.472514052677937, -19.82973906461172, -21.02295673044664, -25.0186406134502, -8.300640554540522, -10.39203462612411, -23.3608560541702, -4.59217805907501, -23.0685059085884, -4.59217805907501, -4.353834280559877, -5.07906054179118, -15.55543921276655, -4.988874036210691, -15.19631496873951, -31.0884917557132, -11.65486332402929, -7.029661431703612, -5.392522897562285, -7.736635406889943, -14.19597701347671, -7.488170862545674, -15.77738596024986, -5.01175498960478, -5.251173419116279, -4.476183759372145, -8.794713851491892, -5.025877843871623, -10.72637470422899, -13.8070609150551, -17.31262961964529, -4.768175215539141, -5.496887915473104, -4.353834280559877, -4.62197780722887, -9.895633326752451, -22.65937969101125, -12.17823329053123, -21.28232380968087, -7.27642757449892, -7.8446378095894, -4.62197780722887, -14.14195078506449, -12.56509549544742, -21.49955513177635, -9.916392733353366, -22.90104014842524, -20.74748862995784, -12.54998554745016, -4.559303090264774, -8.486394996200936, -5.472514052677937, -10.83427094129697, -12.36010976987848, -7.029661431703612, -7.719918952928848, -8.154848092526958, -16.4053413400604, -24.44115301389357, -18.9849745407831, -18.9508794834912, -13.4792629955226, -23.49951765300076, -16.29459371033171, -4.972952829032554, -7.10369240737702, -22.67892434179979, -4.559303090264774, -4.988874036210691, -7.830840738343992, -9.126114901267449, -3.409098303740829, -12.28899241686324, -22.61285436050091, -37.85251274675337, -13.99733394105067, -26.098024022661, -11.56224188308118, -15.54465126884469, -13.83244745278621, -11.61083781536041] 
+    ]
+  },
+ "Site substitutions":{
+  },
+ "analysis":{
+   "authors":"Sergei L Kosakovsky Pond, Sadie Wisotsky and Alexander Lucaci",
+   "contact":"spond@temple.edu",
+   "info":"Examine whether or not a codon alignment is better fit by models which permit multiple instantaneous substitutions. v0.2 adds a separate rate for codon-island triple-hit rates",
+   "requirements":"in-frame codon alignment and a phylogenetic tree",
+   "version":"0.2"
+  },
+ "branch attributes":{
+   "0":{
+     "BAB":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"BAB"
+      },
+     "BUS":{
+       "MG94 with double and triple instantaneous substitutions":0.03894078607689464,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.03899796805051126,
+       "MG94 with double instantaneous substitutions":0.03901058711744913,
+       "Nucleotide GTR":0.04600798983217885,
+       "Standard MG94":0.03900346277373418,
+       "original name":"BUS"
+      },
+     "CAT":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"CAT"
+      },
+     "COW":{
+       "MG94 with double and triple instantaneous substitutions":0.03377803045684087,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.03376912336911925,
+       "MG94 with double instantaneous substitutions":0.03379889448920325,
+       "Nucleotide GTR":0.01156525763407807,
+       "Standard MG94":0.03376211954313876,
+       "original name":"COW"
+      },
+     "DOG":{
+       "MG94 with double and triple instantaneous substitutions":0.0284696134343352,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.02850540575467058,
+       "MG94 with double instantaneous substitutions":0.02850740263081772,
+       "Nucleotide GTR":0.02253510201397539,
+       "Standard MG94":0.02850757963132216,
+       "original name":"DOG"
+      },
+     "ELE":{
+       "MG94 with double and triple instantaneous substitutions":0.05984495009759341,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.0598275654033504,
+       "MG94 with double instantaneous substitutions":0.05981347471422758,
+       "Nucleotide GTR":0.05266904347021629,
+       "Standard MG94":0.0599048847296561,
+       "original name":"ELE"
+      },
+     "FER":{
+       "MG94 with double and triple instantaneous substitutions":0.01233102792148887,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01232748280887159,
+       "MG94 with double instantaneous substitutions":0.01232438982524461,
+       "Nucleotide GTR":0.01242807165159841,
+       "Standard MG94":0.01232806173893117,
+       "original name":"FER"
+      },
+     "GIB":{
+       "MG94 with double and triple instantaneous substitutions":0.01581432004758987,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01580955004186109,
+       "MG94 with double instantaneous substitutions":0.0158185845468508,
+       "Nucleotide GTR":0.00784419481895212,
+       "Standard MG94":0.01582232494383376,
+       "original name":"GIB"
+      },
+     "GOR":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"GOR"
+      },
+     "GUI":{
+       "MG94 with double and triple instantaneous substitutions":0.01647135954303932,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01646601902239454,
+       "MG94 with double instantaneous substitutions":0.01646216500904573,
+       "Nucleotide GTR":0.03411843573147365,
+       "Standard MG94":0.01646596442494145,
+       "original name":"GUI"
+      },
+     "HOR":{
+       "MG94 with double and triple instantaneous substitutions":0.01628855822009073,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01628336049445728,
+       "MG94 with double instantaneous substitutions":0.01627662067109865,
+       "Nucleotide GTR":0.0122813994606713,
+       "Standard MG94":0.01625931796692473,
+       "original name":"HOR"
+      },
+     "HUM":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"HUM"
+      },
+     "MAC":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"MAC"
+      },
+     "MAR":{
+       "MG94 with double and triple instantaneous substitutions":0.01840922943055365,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01840397584981766,
+       "MG94 with double instantaneous substitutions":0.01841248093356976,
+       "Nucleotide GTR":0.01944770588205317,
+       "Standard MG94":0.01841596509627712,
+       "original name":"MAR"
+      },
+     "MIC":{
+       "MG94 with double and triple instantaneous substitutions":0.02143322229237105,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.0214264881195724,
+       "MG94 with double instantaneous substitutions":0.02143463056128175,
+       "Nucleotide GTR":0.02796776845733063,
+       "Standard MG94":0.02143739926381814,
+       "original name":"MIC"
+      },
+     "MUS":{
+       "MG94 with double and triple instantaneous substitutions":0.01285349766992214,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01284935126135094,
+       "MG94 with double instantaneous substitutions":0.01284251614504709,
+       "Nucleotide GTR":0.01000051168132737,
+       "Standard MG94":0.01284621702999597,
+       "original name":"MUS"
+      },
+     "Node1":{
+       "MG94 with double and triple instantaneous substitutions":0.07137205125025441,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.07134769197410111,
+       "MG94 with double instantaneous substitutions":0.07131052109616719,
+       "Nucleotide GTR":0.06901280895935366,
+       "Standard MG94":0.07141968753871769
+      },
+     "Node10":{
+       "MG94 with double and triple instantaneous substitutions":0.003854694231486738,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.00385363497495031,
+       "MG94 with double instantaneous substitutions":0.0038548415096395,
+       "Nucleotide GTR":0,
+       "Standard MG94":0.003853406398180372
+      },
+     "Node11":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0
+      },
+     "Node13":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0
+      },
+     "Node15":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0
+      },
+     "Node2":{
+       "MG94 with double and triple instantaneous substitutions":0.02192518518782069,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.02191819086926546,
+       "MG94 with double instantaneous substitutions":0.02192640009994996,
+       "Nucleotide GTR":0.01226496451102631,
+       "Standard MG94":0.02192915519516766
+      },
+     "Node23":{
+       "MG94 with double and triple instantaneous substitutions":0.01750453675932493,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01752285417308373,
+       "MG94 with double instantaneous substitutions":0.01750820448660341,
+       "Nucleotide GTR":0.0118252124284431,
+       "Standard MG94":0.01751180357733459
+      },
+     "Node24":{
+       "MG94 with double and triple instantaneous substitutions":0.01236576714536705,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01237741244791068,
+       "MG94 with double instantaneous substitutions":0.01237423361256922,
+       "Nucleotide GTR":0.007820854369642596,
+       "Standard MG94":0.01237793912531217
+      },
+     "Node26":{
+       "MG94 with double and triple instantaneous substitutions":0.01049310034960228,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01048991596237787,
+       "MG94 with double instantaneous substitutions":0.01048843334825552,
+       "Nucleotide GTR":0.007922745900514182,
+       "Standard MG94":0.01049190994404674
+      },
+     "Node3":{
+       "MG94 with double and triple instantaneous substitutions":0.01234390508273637,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01235548005429188,
+       "MG94 with double instantaneous substitutions":0.01235597470883272,
+       "Nucleotide GTR":0.02027322198926409,
+       "Standard MG94":0.01234465922229742
+      },
+     "Node30":{
+       "MG94 with double and triple instantaneous substitutions":0.03076419611131139,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.03075527653374997,
+       "MG94 with double instantaneous substitutions":0.03072630176125593,
+       "Nucleotide GTR":0,
+       "Standard MG94":0.0307732367402323
+      },
+     "Node31":{
+       "MG94 with double and triple instantaneous substitutions":0.02152973317217891,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.02152328793410521,
+       "MG94 with double instantaneous substitutions":0.02153112780371182,
+       "Nucleotide GTR":0.008248799276673331,
+       "Standard MG94":0.02153385829310491
+      },
+     "Node35":{
+       "MG94 with double and triple instantaneous substitutions":0.03054035186984524,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.03053120833986817,
+       "MG94 with double instantaneous substitutions":0.03054362199003201,
+       "Nucleotide GTR":0.02887861551592896,
+       "Standard MG94":0.03054264943873478
+      },
+     "Node39":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0
+      },
+     "Node4":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0
+      },
+     "Node40":{
+       "MG94 with double and triple instantaneous substitutions":0.0207506512247019,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.02073288758433006,
+       "MG94 with double instantaneous substitutions":0.02075252317279183,
+       "Nucleotide GTR":0.01509389719596496,
+       "Standard MG94":0.02075563455136333
+      },
+     "Node5":{
+       "MG94 with double and triple instantaneous substitutions":0.01707216636272572,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01706729634248844,
+       "MG94 with double instantaneous substitutions":0.01708132032493162,
+       "Nucleotide GTR":0.008647776687751364,
+       "Standard MG94":0.01708498927688424
+      },
+     "Node6":{
+       "MG94 with double and triple instantaneous substitutions":0.001244783405232186,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.001240645237405135,
+       "MG94 with double instantaneous substitutions":0.001257043593406981,
+       "Nucleotide GTR":0,
+       "Standard MG94":0.00124932462202273
+      },
+     "Node7":{
+       "MG94 with double and triple instantaneous substitutions":0.0235736353091143,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.0235661265940884,
+       "MG94 with double instantaneous substitutions":0.02354009598626785,
+       "Nucleotide GTR":0.01609763908598109,
+       "Standard MG94":0.02357597545218428
+      },
+     "Node8":{
+       "MG94 with double and triple instantaneous substitutions":0.01063184181726936,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.0106416184483419,
+       "MG94 with double instantaneous substitutions":0.01064158094642303,
+       "Nucleotide GTR":0.01158654890013283,
+       "Standard MG94":0.01064509521864897
+      },
+     "Node9":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0.003629202876149899,
+       "Standard MG94":0
+      },
+     "PAN":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0,
+       "Standard MG94":0,
+       "original name":"PAN"
+      },
+     "PDA":{
+       "MG94 with double and triple instantaneous substitutions":0.0135681721251912,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.01356432642850346,
+       "MG94 with double instantaneous substitutions":0.01357940796115163,
+       "Nucleotide GTR":0.01189341396137832,
+       "Standard MG94":0.01356622827628809,
+       "original name":"PDA"
+      },
+     "PIG":{
+       "MG94 with double and triple instantaneous substitutions":0.08421047776918382,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.08417991817792821,
+       "MG94 with double instantaneous substitutions":0.08423761950884474,
+       "Nucleotide GTR":0.04962387770012933,
+       "Standard MG94":0.08415347034241184,
+       "original name":"PIG"
+      },
+     "PON":{
+       "MG94 with double and triple instantaneous substitutions":0,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0,
+       "MG94 with double instantaneous substitutions":0,
+       "Nucleotide GTR":0.003803400643841249,
+       "Standard MG94":0,
+       "original name":"PON"
+      },
+     "RAB":{
+       "MG94 with double and triple instantaneous substitutions":0.06043683280796985,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.06055096755602633,
+       "MG94 with double instantaneous substitutions":0.060530689464062,
+       "Nucleotide GTR":0.04024587700539097,
+       "Standard MG94":0.06049592937729261,
+       "original name":"RAB"
+      },
+     "RAT":{
+       "MG94 with double and triple instantaneous substitutions":0.02571851255208157,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.0257102773393658,
+       "MG94 with double instantaneous substitutions":0.02571625844092961,
+       "Nucleotide GTR":0.03249610909739278,
+       "Standard MG94":0.02571770819538242,
+       "original name":"RAT"
+      },
+     "SHE":{
+       "MG94 with double and triple instantaneous substitutions":0.00789265499119274,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.00789030521906495,
+       "MG94 with double instantaneous substitutions":0.007882418755768726,
+       "Nucleotide GTR":0.02796982879812684,
+       "Standard MG94":0.007903458677804016,
+       "original name":"SHE"
+      },
+     "SQI":{
+       "MG94 with double and triple instantaneous substitutions":0.05550810832736813,
+       "MG94 with double and triple instantaneous substitutions [only synonymous islands]":0.05549142116413939,
+       "MG94 with double instantaneous substitutions":0.05555488718330012,
+       "Nucleotide GTR":0.03768139561307299,
+       "Standard MG94":0.05552793084841277,
+       "original name":"SQI"
+      }
+    },
+   "attributes":{
+     "MG94 with double and triple instantaneous substitutions":{
+       "attribute type":"branch length",
+       "display order":3
+      },
+     "MG94 with double and triple instantaneous substitutions [only synonymous islands]":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "MG94 with double instantaneous substitutions":{
+       "attribute type":"branch length",
+       "display order":2
+      },
+     "Nucleotide GTR":{
+       "attribute type":"branch length",
+       "display order":0
+      },
+     "Standard MG94":{
+       "attribute type":"branch length",
+       "display order":1
+      },
+     "original name":{
+       "attribute type":"node label",
+       "display order":-1
+      }
+    }
+  },
+ "data partitions":{
+   "0":{
+     "coverage":      [
+[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87] 
+      ],
+     "name":"fitter.filter.default"
+    }
+  },
+ "fits":{
+   "MG94 with double and triple instantaneous substitutions":{
+     "AIC-c":2272.784685705506,
+     "Log Likelihood":-1066.09572023895,
+     "Rate Distributions":{
+       "distribution":        [
+[0, 0.1217675784401638],
+        [0, 0.6881905083496728],
+        [5.261997120046464, 0.1900419132101634] 
+        ],
+       "parameters":{
+         "GDD rate category 1":14.79202699308026,
+         "GDD rate category 2":0,
+         "GDD rate category 3":0,
+         "Mixture auxiliary weight for GDD category 1":0.1900419132101634,
+         "Mixture auxiliary weight for GDD category 2":0.8496618770450534,
+         "Substitution rate from nucleotide A to nucleotide C":0.1461687715067949,
+         "Substitution rate from nucleotide A to nucleotide G":1,
+         "Substitution rate from nucleotide A to nucleotide T":0.8858616609523969,
+         "Substitution rate from nucleotide C to nucleotide G":0.08603184290292784,
+         "Substitution rate from nucleotide C to nucleotide T":0.7655101638574441,
+         "Substitution rate from nucleotide G to nucleotide T":0.2758755323534668,
+         "non-synonymous/synonymous rate ratio":0.0149427647841871,
+         "rate at which 2 nucleotides are changed instantly within a single codon":0,
+         "rate at which 3 nucleotides are changed instantly within a single codon":0,
+         "rate at which 3 nucleotides are changed instantly within a single codon between synonymous codon islands":0
+        }
+      },
+     "display order":3,
+     "estimated parameters":68
+    },
+   "MG94 with double and triple instantaneous substitutions [only synonymous islands]":{
+     "AIC-c":2270.649318432383,
+     "Log Likelihood":-1066.095696398187,
+     "Rate Distributions":{
+       "distribution":        [
+[0, 0.1485600070846661],
+        [0, 0.6613999187909138],
+        [5.262048042273943, 0.1900400741244201] 
+        ],
+       "parameters":{
+         "GDD rate category 1":9.021138420548459,
+         "GDD rate category 2":0,
+         "GDD rate category 3":0,
+         "Mixture auxiliary weight for GDD category 1":0.1900400741244201,
+         "Mixture auxiliary weight for GDD category 2":0.816583509456878,
+         "Substitution rate from nucleotide A to nucleotide C":0.1461465849374045,
+         "Substitution rate from nucleotide A to nucleotide G":1,
+         "Substitution rate from nucleotide A to nucleotide T":0.8851948210046416,
+         "Substitution rate from nucleotide C to nucleotide G":0.08596049969825789,
+         "Substitution rate from nucleotide C to nucleotide T":0.7653223827934059,
+         "Substitution rate from nucleotide G to nucleotide T":0.2757158034722888,
+         "non-synonymous/synonymous rate ratio":0.01493576987237226,
+         "rate at which 2 nucleotides are changed instantly within a single codon":0,
+         "rate at which 3 nucleotides are changed instantly within a single codon":0,
+         "rate at which 3 nucleotides are changed instantly within a single codon between synonymous codon islands":0
+        }
+      },
+     "display order":0,
+     "estimated parameters":67
+    },
+   "MG94 with double instantaneous substitutions":{
+     "AIC-c":2268.516190677024,
+     "Log Likelihood":-1066.095748150248,
+     "Rate Distributions":{
+       "distribution":        [
+[0, 0.1234235825571216],
+        [0, 0.6865439270531404],
+        [5.262258037818153, 0.190032490389738] 
+        ],
+       "parameters":{
+         "GDD rate category 1":14.24969544000242,
+         "GDD rate category 2":0,
+         "GDD rate category 3":0,
+         "Mixture auxiliary weight for GDD category 1":0.190032490389738,
+         "Mixture auxiliary weight for GDD category 2":0.8476190944788511,
+         "Substitution rate from nucleotide A to nucleotide C":0.1462201549703179,
+         "Substitution rate from nucleotide A to nucleotide G":1,
+         "Substitution rate from nucleotide A to nucleotide T":0.8859138856211095,
+         "Substitution rate from nucleotide C to nucleotide G":0.08607445165434675,
+         "Substitution rate from nucleotide C to nucleotide T":0.7658813956143447,
+         "Substitution rate from nucleotide G to nucleotide T":0.2758963273030297,
+         "non-synonymous/synonymous rate ratio":0.01493791017385689,
+         "rate at which 2 nucleotides are changed instantly within a single codon":0
+        }
+      },
+     "display order":2,
+     "estimated parameters":66
+    },
+   "Nucleotide GTR":{
+     "AIC-c":2661.444383873882,
+     "Equilibrium frequencies":      [
+[0.1998074145402022],
+      [0.2952977050232707],
+      [0.3256299149414219],
+      [0.1792649654951051] 
+      ],
+     "Log Likelihood":-1277.266604544391,
+     "Rate Distributions":{
+       "Substitution rate from nucleotide A to nucleotide C":0.1946443765399417,
+       "Substitution rate from nucleotide A to nucleotide G":1,
+       "Substitution rate from nucleotide A to nucleotide T":0.1415165676174202,
+       "Substitution rate from nucleotide C to nucleotide G":0.3125435846374999,
+       "Substitution rate from nucleotide C to nucleotide T":1.56454858212242,
+       "Substitution rate from nucleotide G to nucleotide T":0.2326581530278322
+      },
+     "display order":0,
+     "estimated parameters":53
+    },
+   "Standard MG94":{
+     "AIC-c":2266.384994726257,
+     "Log Likelihood":-1066.09572316958,
+     "Rate Distributions":{
+       "distribution":        [
+[0, 0.09234652074259031],
+        [0, 0.7176152995737932],
+        [5.262100498251678, 0.1900381796836164] 
+        ],
+       "parameters":{
+         "GDD rate category 1":41.95840263136066,
+         "GDD rate category 2":0,
+         "GDD rate category 3":0,
+         "Mixture auxiliary weight for GDD category 1":0.1900381796836164,
+         "Mixture auxiliary weight for GDD category 2":0.8859865756307892,
+         "Substitution rate from nucleotide A to nucleotide C":0.1461259785705731,
+         "Substitution rate from nucleotide A to nucleotide G":1,
+         "Substitution rate from nucleotide A to nucleotide T":0.8855539225753057,
+         "Substitution rate from nucleotide C to nucleotide G":0.08600561680171197,
+         "Substitution rate from nucleotide C to nucleotide T":0.7655900599954186,
+         "Substitution rate from nucleotide G to nucleotide T":0.2755493063115257,
+         "non-synonymous/synonymous rate ratio":0.01493627855640468
+        }
+      },
+     "display order":1,
+     "estimated parameters":65
+    }
+  },
+ "input":{
+   "file name":"/home/swisotsky/FMM_PETROV_RERUN/sadie_runs/sadie_runs/ENSG00000184602.fa",
+   "number of sequences":24,
+   "number of sites":88,
+   "partition count":1,
+   "trees":{
+     "0":"((((((((((((MAC:1e-10,(HUM:1e-10,(GOR:1e-10,BAB:1e-10)Node15:1e-10)Node13:1e-10)Node11:1e-10,PAN:1e-10)Node10:0.000796,PON:0.002992)Node9:0.002114,GIB:0.008718)Node8:0.009868,MAR:0.016923)Node7:0.01136,RAB:0.034949)Node6:0.002429,((PDA:0.013506,(DOG:0.016639,CAT:0.005291)Node26:0.001635)Node24:0.008078,FER:0.010514)Node23:0.005672)Node5:0.001716,((PIG:0.039262,HOR:0.018877)Node31:0.001607,BUS:0.034712)Node30:0.006914)Node4:0.001262,(SHE:0.017373,COW:0.021387)Node35:0.015244)Node3:0.006171,MIC:0.025611)Node2:0.007184,((SQI:0.030402,GUI:0.033992)Node40:0.003577,ELE:0.043676)Node39:0.004705)Node1:0.043325,RAT:0.024403,MUS:0.017264)"
+    }
+  },
+ "test results":{
+   "Double-hit vs single-hit":{
+     "LRT":-4.996133566237404e-05,
+     "p-value":1
+    },
+   "Triple-hit vs Triple-hit-island":{
+     "LRT":-4.768152484757593e-05,
+     "p-value":1
+    },
+   "Triple-hit vs double-hit":{
+     "LRT":5.582259609582252e-05,
+     "p-value":0.9999720890914673
+    },
+   "Triple-hit vs single-hit":{
+     "LRT":5.861260433448479e-06,
+     "p-value":0.9999970693740774
+    },
+   "Triple-hit-island vs double-hit":{
+     "LRT":0.0001035041209433984,
+     "p-value":0.9918827038635278
+    }
+  },
+ "tested":{
+   "0":{
+     "BAB":"test",
+     "BUS":"test",
+     "CAT":"test",
+     "COW":"test",
+     "DOG":"test",
+     "ELE":"test",
+     "FER":"test",
+     "GIB":"test",
+     "GOR":"test",
+     "GUI":"test",
+     "HOR":"test",
+     "HUM":"test",
+     "MAC":"test",
+     "MAR":"test",
+     "MIC":"test",
+     "MUS":"test",
+     "Node1":"test",
+     "Node10":"test",
+     "Node11":"test",
+     "Node13":"test",
+     "Node15":"test",
+     "Node2":"test",
+     "Node23":"test",
+     "Node24":"test",
+     "Node26":"test",
+     "Node3":"test",
+     "Node30":"test",
+     "Node31":"test",
+     "Node35":"test",
+     "Node39":"test",
+     "Node4":"test",
+     "Node40":"test",
+     "Node5":"test",
+     "Node6":"test",
+     "Node7":"test",
+     "Node8":"test",
+     "Node9":"test",
+     "PAN":"test",
+     "PDA":"test",
+     "PIG":"test",
+     "PON":"test",
+     "RAB":"test",
+     "RAT":"test",
+     "SHE":"test",
+     "SQI":"test"
+    }
+  },
+ "timers":{
+   "MG94 with double and triple instantaneous substitutions":{
+     "order":null,
+     "timer":178
+    },
+   "MG94 with double and triple instantaneous substitutions [only synonymous islands]":{
+     "order":null,
+     "timer":93
+    },
+   "MG94 with double instantaneous substitutions":{
+     "order":null,
+     "timer":59
+    },
+   "Overall":{
+     "order":0,
+     "timer":407
+    },
+   "Standard MG94":{
+     "order":null,
+     "timer":74
+    }
+  }
+}
